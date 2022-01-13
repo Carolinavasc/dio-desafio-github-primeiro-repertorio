@@ -1,0 +1,3 @@
+ - Link p/ baixar git : https://git-scm.com/downloads.
+- 
+
