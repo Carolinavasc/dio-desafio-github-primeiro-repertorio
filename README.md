@@ -1,7 +1,7 @@
 # Desafio de projeto sobre Git/Github da DIO
 Repositório criado para desafio de projetos.
 
-![Git](C:\Users\Vasconcelos\Downloads\git.jpeg)
+![Git](https://wallpapercave.com/wp/wp3082255.jpg)
 
 
 
